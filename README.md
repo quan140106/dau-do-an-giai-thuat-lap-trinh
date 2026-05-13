@@ -19,6 +19,7 @@ do-an
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -76,6 +77,7 @@ do-an
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
@@ -189,6 +191,7 @@ do-an
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
@@ -231,5 +234,6 @@ do-an
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
