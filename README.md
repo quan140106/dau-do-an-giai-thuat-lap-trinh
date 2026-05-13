@@ -16,6 +16,7 @@ do-an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ do-an
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
