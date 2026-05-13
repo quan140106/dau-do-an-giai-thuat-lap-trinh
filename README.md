@@ -12,6 +12,7 @@ do-an
 | [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
@@ -367,6 +368,7 @@ do-an
 | [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [0709-to-lower-case](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0709-to-lower-case) |
@@ -461,6 +463,7 @@ do-an
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
