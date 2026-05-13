@@ -228,5 +228,6 @@ do-an
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
