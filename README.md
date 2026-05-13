@@ -24,6 +24,7 @@ do-an
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1952-three-divisors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -555,4 +556,12 @@ do-an
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1037-valid-boomerang) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
