@@ -16,6 +16,7 @@ do-an
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -78,6 +79,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1436-destination-city) |
