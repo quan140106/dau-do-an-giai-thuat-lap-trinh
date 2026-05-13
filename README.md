@@ -69,6 +69,7 @@ do-an
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
@@ -456,6 +457,7 @@ do-an
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0495-teemo-attacking) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
