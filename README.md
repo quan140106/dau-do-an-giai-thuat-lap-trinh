@@ -71,6 +71,7 @@ do-an
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
@@ -423,6 +424,7 @@ do-an
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
