@@ -226,6 +226,7 @@ do-an
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0144-binary-tree-preorder-traversal) |
@@ -245,6 +246,7 @@ do-an
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
