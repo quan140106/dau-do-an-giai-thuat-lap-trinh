@@ -363,6 +363,7 @@ do-an
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0824-goat-latin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1436-destination-city](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1556-thousand-separator) |
