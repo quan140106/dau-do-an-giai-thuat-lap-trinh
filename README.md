@@ -102,6 +102,7 @@ do-an
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0965-univalued-binary-tree) |
@@ -109,6 +110,7 @@ do-an
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0965-univalued-binary-tree) |
@@ -120,5 +122,6 @@ do-an
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
