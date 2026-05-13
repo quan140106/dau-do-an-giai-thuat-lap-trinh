@@ -72,6 +72,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -336,6 +337,7 @@ do-an
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
