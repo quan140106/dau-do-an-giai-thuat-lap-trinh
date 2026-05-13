@@ -6,6 +6,7 @@ do-an
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ do-an
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 ## Hash Table
