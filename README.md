@@ -20,4 +20,24 @@ do-an
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
