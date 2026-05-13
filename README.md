@@ -54,6 +54,7 @@ do-an
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -230,6 +231,7 @@ do-an
 | [0144-binary-tree-preorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -297,4 +299,8 @@ do-an
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
