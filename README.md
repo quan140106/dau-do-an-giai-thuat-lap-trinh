@@ -72,6 +72,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -408,6 +409,7 @@ do-an
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -425,4 +427,8 @@ do-an
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
