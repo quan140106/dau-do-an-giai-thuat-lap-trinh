@@ -66,6 +66,7 @@ do-an
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2206-divide-array-into-equal-pairs](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2206-divide-array-into-equal-pairs) |
@@ -100,6 +101,7 @@ do-an
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ do-an
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
@@ -311,12 +314,14 @@ do-an
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -369,4 +374,16 @@ do-an
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
