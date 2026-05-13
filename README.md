@@ -68,6 +68,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
