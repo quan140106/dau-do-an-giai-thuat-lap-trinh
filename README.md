@@ -32,12 +32,14 @@ do-an
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,5 +81,6 @@ do-an
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
