@@ -6,6 +6,7 @@ do-an
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
