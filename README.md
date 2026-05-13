@@ -73,6 +73,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1732-find-the-highest-altitude](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2057-smallest-index-with-equal-value) |
@@ -399,6 +400,7 @@ do-an
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2485-find-the-pivot-integer) |
 ## Interactive
 |  |
