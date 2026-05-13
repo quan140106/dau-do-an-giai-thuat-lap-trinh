@@ -37,6 +37,7 @@ do-an
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0035-search-insert-position) |
@@ -83,6 +84,7 @@ do-an
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@ do-an
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
