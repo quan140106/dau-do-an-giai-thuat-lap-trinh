@@ -76,6 +76,7 @@ do-an
 | [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
@@ -447,6 +448,7 @@ do-an
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2485-find-the-pivot-integer) |
 ## Interactive
