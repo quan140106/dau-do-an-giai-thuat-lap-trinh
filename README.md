@@ -121,6 +121,7 @@ do-an
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
@@ -370,6 +371,7 @@ do-an
 | [0020-valid-parentheses](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
