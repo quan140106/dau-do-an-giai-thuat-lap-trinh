@@ -229,6 +229,7 @@ do-an
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0155-min-stack) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -292,4 +293,8 @@ do-an
 | ------- |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
