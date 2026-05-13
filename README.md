@@ -95,4 +95,12 @@ do-an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
