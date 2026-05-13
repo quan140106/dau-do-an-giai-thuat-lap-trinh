@@ -75,6 +75,7 @@ do-an
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
@@ -228,6 +229,7 @@ do-an
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
