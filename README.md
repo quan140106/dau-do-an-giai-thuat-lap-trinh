@@ -41,6 +41,7 @@ do-an
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
@@ -53,6 +54,7 @@ do-an
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
@@ -253,5 +255,6 @@ do-an
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
