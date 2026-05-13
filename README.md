@@ -19,6 +19,7 @@ do-an
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
@@ -235,6 +236,7 @@ do-an
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
