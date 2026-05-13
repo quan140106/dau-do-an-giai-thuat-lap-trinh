@@ -23,6 +23,7 @@ do-an
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@ do-an
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
