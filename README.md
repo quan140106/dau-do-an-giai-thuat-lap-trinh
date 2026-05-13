@@ -13,6 +13,7 @@ do-an
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,4 +258,8 @@ do-an
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
