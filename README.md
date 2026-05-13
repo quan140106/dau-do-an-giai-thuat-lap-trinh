@@ -76,4 +76,8 @@ do-an
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
