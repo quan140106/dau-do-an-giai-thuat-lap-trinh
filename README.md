@@ -68,6 +68,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -298,6 +299,7 @@ do-an
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -353,5 +355,6 @@ do-an
 ## Simulation
 |  |
 | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
