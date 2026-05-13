@@ -43,6 +43,7 @@ do-an
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ do-an
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
