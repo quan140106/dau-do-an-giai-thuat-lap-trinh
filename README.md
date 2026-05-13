@@ -14,6 +14,7 @@ do-an
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -109,6 +110,7 @@ do-an
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -153,6 +155,7 @@ do-an
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2085-count-common-words-with-one-occurrence) |
