@@ -72,6 +72,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -126,6 +127,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -385,6 +387,7 @@ do-an
 | ------- |
 | [0011-container-with-most-water](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Simulation
 |  |
