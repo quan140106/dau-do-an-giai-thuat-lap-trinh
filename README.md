@@ -16,6 +16,7 @@ do-an
 | [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
