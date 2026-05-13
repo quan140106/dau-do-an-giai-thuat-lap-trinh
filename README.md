@@ -42,6 +42,7 @@ do-an
 | [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ do-an
 | ------- |
 | [0016-3sum-closest](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +110,7 @@ do-an
 | [0016-3sum-closest](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
