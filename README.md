@@ -8,6 +8,7 @@ do-an
 | ------- |
 | [0002-add-two-numbers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
@@ -119,6 +120,7 @@ do-an
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
@@ -378,6 +380,7 @@ do-an
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0049-group-anagrams) |
