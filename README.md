@@ -101,6 +101,7 @@ do-an
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Depth-First Search
@@ -269,4 +270,8 @@ do-an
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2485-find-the-pivot-integer) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
