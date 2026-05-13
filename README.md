@@ -16,6 +16,7 @@ do-an
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2169-count-operations-to-obtain-zero) |
@@ -438,6 +439,7 @@ do-an
 |  |
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
+| [1518-water-bottles](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2169-count-operations-to-obtain-zero) |
