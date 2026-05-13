@@ -79,6 +79,7 @@ do-an
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
@@ -118,6 +119,7 @@ do-an
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1796-second-largest-digit-in-a-string) |
@@ -353,6 +355,7 @@ do-an
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1436-destination-city) |
 | [1556-thousand-separator](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1556-thousand-separator) |
 | [1694-reformat-phone-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
