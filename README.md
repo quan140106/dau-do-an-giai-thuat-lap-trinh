@@ -9,6 +9,7 @@ do-an
 | [0002-add-two-numbers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
@@ -100,6 +101,7 @@ do-an
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
