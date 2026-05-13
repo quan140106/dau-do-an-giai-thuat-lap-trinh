@@ -17,6 +17,7 @@ do-an
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -33,6 +34,7 @@ do-an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -539,4 +541,12 @@ do-an
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
