@@ -130,6 +130,7 @@ do-an
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
@@ -193,6 +194,7 @@ do-an
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -388,6 +390,7 @@ do-an
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
