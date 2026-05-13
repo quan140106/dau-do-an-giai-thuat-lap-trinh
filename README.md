@@ -71,6 +71,7 @@ do-an
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
@@ -113,6 +114,7 @@ do-an
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -160,6 +162,7 @@ do-an
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -347,6 +350,7 @@ do-an
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
+| [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1694-reformat-phone-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
