@@ -48,6 +48,7 @@ do-an
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ do-an
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ do-an
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -92,10 +95,12 @@ do-an
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Depth-First Search
 |  |
 | ------- |
