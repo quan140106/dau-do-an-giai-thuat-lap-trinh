@@ -78,6 +78,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
+| [1089-duplicate-zeros](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -205,6 +206,7 @@ do-an
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
