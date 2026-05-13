@@ -69,6 +69,7 @@ do-an
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
@@ -120,6 +121,7 @@ do-an
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0454-4sum-ii) |
+| [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0819-most-common-word) |
