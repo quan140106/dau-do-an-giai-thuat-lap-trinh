@@ -69,6 +69,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -307,6 +308,7 @@ do-an
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2000-reverse-prefix-of-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 ## Hash Function
 |  |
