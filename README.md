@@ -53,6 +53,7 @@ do-an
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
@@ -214,6 +215,7 @@ do-an
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -246,4 +248,8 @@ do-an
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
