@@ -122,6 +122,7 @@ do-an
 | [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
@@ -161,6 +162,7 @@ do-an
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
@@ -193,6 +195,7 @@ do-an
 | ------- |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
@@ -368,6 +371,7 @@ do-an
 | [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
