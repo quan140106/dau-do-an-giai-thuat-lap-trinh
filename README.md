@@ -18,6 +18,7 @@ do-an
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -95,6 +96,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
+| [1037-valid-boomerang](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -549,4 +551,8 @@ do-an
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
