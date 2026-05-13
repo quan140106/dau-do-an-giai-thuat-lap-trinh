@@ -9,6 +9,7 @@ do-an
 | [0007-reverse-integer](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
@@ -29,11 +30,13 @@ do-an
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +45,7 @@ do-an
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -50,8 +54,13 @@ do-an
 |  |
 | ------- |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
