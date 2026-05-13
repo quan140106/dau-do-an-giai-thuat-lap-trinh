@@ -68,6 +68,7 @@ do-an
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -85,6 +86,7 @@ do-an
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ do-an
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
@@ -290,6 +293,7 @@ do-an
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2000-reverse-prefix-of-word) |
+| [2418-sort-the-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2418-sort-the-people) |
 ## Hash Function
 |  |
 | ------- |
