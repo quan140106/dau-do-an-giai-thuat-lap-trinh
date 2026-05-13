@@ -130,6 +130,7 @@ do-an
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
@@ -175,6 +176,7 @@ do-an
 | [0049-group-anagrams](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0389-find-the-difference) |
@@ -393,6 +395,7 @@ do-an
 | [0049-group-anagrams](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
