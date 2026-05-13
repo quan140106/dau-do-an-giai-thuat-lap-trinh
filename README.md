@@ -74,6 +74,7 @@ do-an
 | [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
@@ -101,12 +102,14 @@ do-an
 ## Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0965-univalued-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2236-root-equals-sum-of-children) |
