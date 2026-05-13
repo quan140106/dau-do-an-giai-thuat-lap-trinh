@@ -72,6 +72,7 @@ do-an
 | [0912-sort-an-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
 | [2057-smallest-index-with-equal-value](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2073-time-needed-to-buy-tickets) |
@@ -108,6 +109,7 @@ do-an
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -151,6 +153,7 @@ do-an
 | ------- |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
+| [1748-sum-of-unique-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
