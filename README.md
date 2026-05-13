@@ -113,6 +113,7 @@ do-an
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -288,4 +289,5 @@ do-an
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
