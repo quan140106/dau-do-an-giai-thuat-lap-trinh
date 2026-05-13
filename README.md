@@ -30,6 +30,7 @@ do-an
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
@@ -70,16 +71,19 @@ do-an
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0733-flood-fill) |
 ## Graph Theory
@@ -87,4 +91,8 @@ do-an
 | ------- |
 | [0997-find-the-town-judge](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
