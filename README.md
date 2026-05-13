@@ -37,6 +37,7 @@ do-an
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
@@ -82,6 +83,7 @@ do-an
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +102,7 @@ do-an
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
