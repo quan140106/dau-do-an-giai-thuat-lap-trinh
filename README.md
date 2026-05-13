@@ -344,6 +344,7 @@ do-an
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0572-subtree-of-another-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1694-reformat-phone-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/1844-replace-all-digits-with-characters) |
