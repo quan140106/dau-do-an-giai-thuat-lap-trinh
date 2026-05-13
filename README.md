@@ -77,6 +77,7 @@ do-an
 | [0485-max-consecutive-ones](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0724-find-pivot-index) |
@@ -481,6 +482,7 @@ do-an
 | ------- |
 | [0011-container-with-most-water](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/2078-two-furthest-houses-with-different-colors) |
