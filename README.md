@@ -122,6 +122,7 @@ do-an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -277,6 +278,7 @@ do-an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0424-longest-repeating-character-replacement) |
