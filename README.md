@@ -37,6 +37,7 @@ do-an
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -104,6 +105,7 @@ do-an
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/quan140106/dau-do-an-giai-thuat-lap-trinh/tree/master/0278-first-bad-version) |
